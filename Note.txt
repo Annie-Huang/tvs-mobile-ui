@@ -2,4 +2,12 @@ https://www.youtube.com/watch?v=1_ljUv6cvVE
 https://codepen.io/bradtraversy/full/RwNoRVm
 https://github.com/Annie-Huang/tvs-mobile-ui
 
+https://www.bootstrapcdn.com/fontawesome/
+https://fonts.google.com/
+https://fonts.google.com/?query=roboto
+https://fonts.google.com/?query=roboto&selection.family=Roboto
+
 ===============================================================
+
+
+
