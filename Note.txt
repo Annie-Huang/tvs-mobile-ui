@@ -6,6 +6,7 @@ https://www.bootstrapcdn.com/fontawesome/
 https://fonts.google.com/
 https://fonts.google.com/?query=roboto
 https://fonts.google.com/?query=roboto&selection.family=Roboto
+https://css-tricks.com/couple-takes-sticky-footer/      << Use the method of: There is flexbox
 
 ===============================================================
 

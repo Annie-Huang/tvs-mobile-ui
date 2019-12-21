@@ -10,7 +10,17 @@
 }
 
 html, body {
+    height: 100%;
+}
+
+body {
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto;
 }
 
 .container {
@@ -96,6 +106,7 @@ html, body {
 }
 
 .app-footer {
+    flex-shrink: 0;
     background-color: #f4f4f4;
     color: #444;
     padding: 10px;
