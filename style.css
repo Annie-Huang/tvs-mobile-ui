@@ -22,7 +22,7 @@ html, body {
 
 .app-header {
     background-color: var(--primary-color);
-    box-shadow: 3px 3px 10px #888
+    box-shadow: 3px 3px 10px #888;
 }
 
 .app-header .container {
@@ -43,4 +43,25 @@ html, body {
     width: 300px;
     border: 0;
     border-radius: 3px;
+}
+
+.subheader {
+    background-color: var(--secondary-color);
+    color: #fff;
+    box-shadow: 3px 3px 10px #888;
+    margin: 0 auto 16px;
+    width: 90%;
+    font-size: 14px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subheader p {
+    margin: 4px;
+}
+
+.subheader img {
+    width: 40px;
 }
